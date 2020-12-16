@@ -1,1 +1,1 @@
-web: gunicorn shop.wsgi --log-file -
+web: gunicorn LedMatrixFefu.wsgi --log-file -
