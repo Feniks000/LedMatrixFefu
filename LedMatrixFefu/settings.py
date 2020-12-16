@@ -25,7 +25,8 @@ SECRET_KEY = '6%%=z0j9685pz9@1fdqsj@ouhhguzv%ttou7p%3=%a9_mii^)('
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'led-matrix-fefu.herokuapp.com'
+    'led-matrix-fefu.herokuapp.com',
+    '127.0.0.1'
 ]
 
 # Application definition
